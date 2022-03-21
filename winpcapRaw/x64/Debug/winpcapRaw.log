@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(167,22): warning C4129: "D": nierozpoznany znak sekwencji ucieczki
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(167,22): warning C4129: "N": nierozpoznany znak sekwencji ucieczki
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(166,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+  winpcapRaw.vcxproj -> C:\Users\domowe\source\repos\winpcapRaw\x64\Debug\winpcapRaw.exe
