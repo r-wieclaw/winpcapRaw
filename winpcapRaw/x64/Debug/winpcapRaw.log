@@ -1,5 +1,13 @@
-﻿  main.cpp
-C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(167,22): warning C4129: "D": nierozpoznany znak sekwencji ucieczki
-C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(167,22): warning C4129: "N": nierozpoznany znak sekwencji ucieczki
-C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(166,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+﻿  SocketRawProgram.cpp
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.h(70,27): warning C4129: "D": nierozpoznany znak sekwencji ucieczki
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.h(70,27): warning C4129: "N": nierozpoznany znak sekwencji ucieczki
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.h(6,13): warning C4309: "inicjowanie": obcięcie stałej wartości
+  main.cpp
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.h(70,27): warning C4129: "D": nierozpoznany znak sekwencji ucieczki
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.h(70,27): warning C4129: "N": nierozpoznany znak sekwencji ucieczki
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.h(6,13): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\main.cpp(66,19): warning C4804: "<": niebezpieczne użycie typu "bool" w operacji
+  Generowanie kodu...
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.cpp(171): warning C4715: "SocketRawProgram::LoadConfigFromFile”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\domowe\source\repos\winpcapRaw\winpcapRaw\SocketRawProgram.cpp(196): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: macAddr
   winpcapRaw.vcxproj -> C:\Users\domowe\source\repos\winpcapRaw\x64\Debug\winpcapRaw.exe

@@ -1,0 +1,4 @@
+macSrc=d0:37:45:0b:da:86
+macDsc=c0:06:c3:ec:3a:b6
+nameDevice=\Device\NPF_{CBCF66E9-BF6A-41B0-811C-DD1CD11B49A9}
+delay=100
